@@ -1,2 +1,11 @@
-# Binary-Search-Tree
-A program that has binary search tree features, its not a real life tree though, that's a little sad.
+Project II Binary Search Tree
+
+Brian Paulus
+
+Here this project implements a Binary Search Tree
+- Does not allow negative numbers and does not allow duplicates
+
+The program includes inserting, deleting, checking amount of elements, displaying elements in preorder, inorder, postorder traversals
+
+Copy github link, clone and run twin.
+
